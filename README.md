@@ -104,4 +104,4 @@ Proyek ini saat ini belum memiliki lisensi resmi. Untuk informasi lebih lanjut, 
 
 ---
 
-**Dibuat dengan ❤️ oleh Kelompok 3**
+**Dibuat oleh Kelompok 3**
